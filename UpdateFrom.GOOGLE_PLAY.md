@@ -5,7 +5,7 @@ return new AppUpdater(this)
        .start();
 ```
 
-## Notes
+### Notes
 * Your app must be published on Google Play with one production release at least.
 * Apps with updates that varies by devices are not supported.
 * The latest update retrieved by the library will be the latest production one.
