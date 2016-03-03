@@ -5,9 +5,6 @@ return new AppUpdater(this)
        .start();
 ```
 
-## Requirements
-No additional methods needed in order to works.
-
 ## Notes
 * Your app MUST BE published on Google Play with one production release at least.
 * Apps with updates that varies by devices are not supported.
