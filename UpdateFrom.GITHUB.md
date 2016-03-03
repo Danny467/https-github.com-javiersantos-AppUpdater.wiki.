@@ -7,5 +7,5 @@ return new AppUpdater(this)
 ```
 
 ### Notes
-* You must have one published release (at least) in the provided repository, tagged as X.X.X or vX.X.X.
+* You must have one published release (at least) in the provided repository, tagged as X.X.X.X or vX.X.X.X.
 * Repo must be public.
