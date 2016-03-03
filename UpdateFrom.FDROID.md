@@ -5,5 +5,5 @@ return new AppUpdater(this)
        .start();
 ```
 
-## Notes
+### Notes
 No additional notes.
