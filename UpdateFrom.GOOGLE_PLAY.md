@@ -9,6 +9,6 @@ return new AppUpdater(this)
 No additional methods needed in order to works.
 
 ## Notes
-* Your app MUST BE published to Google Play with one production release at least.
+* Your app MUST BE published on Google Play with one production release at least.
 * Apps with updates that varies by devices are not supported.
 * The update retrieved by the library will be the latest production one.
