@@ -1,6 +1,6 @@
 ## Basic Usage
 ```Java
-return new AppUpdater(this)
+new AppUpdater(this)
        .setUpdateFrom(UpdateFrom.XML)
        .setUpdateXML("https://raw.githubusercontent.com/javiersantos/AppUpdater/master/app/update.xml")
        .start();
