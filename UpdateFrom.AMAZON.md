@@ -1,6 +1,6 @@
 ## Basic Usage
 ```Java
-return new AppUpdater(this)
+new AppUpdater(this)
        .setUpdateFrom(UpdateFrom.AMAZON)
        .start();
 ```
