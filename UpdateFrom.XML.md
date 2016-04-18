@@ -1,4 +1,4 @@
-## Basic Usage without changelog / release notes
+## Basic Usage
 ```Java
 new AppUpdater(this)
        .setUpdateFrom(UpdateFrom.XML)
@@ -16,15 +16,7 @@ new AppUpdater(this)
 </AppUpdater>
 ```
 
-## Basic Usage with changelog / release notes
-```Java
-new AppUpdater(this)
-       .setUpdateFrom(UpdateFrom.XML)
-       .setUpdateXML("https://raw.githubusercontent.com/javiersantos/AppUpdater/master/app/update-changelog.xml")
-       .start();
-```
-
-### Example XML
+#### Adding release notes
 ```xml
 <AppUpdater>
   <update>
