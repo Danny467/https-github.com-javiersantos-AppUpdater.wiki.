@@ -7,6 +7,8 @@ new AppUpdater(this)
 ```
 
 ### Example XML
+https://raw.githubusercontent.com/javiersantos/AppUpdater/master/app/update.xml
+
 ```xml
 <AppUpdater>
   <update>
@@ -17,6 +19,8 @@ new AppUpdater(this)
 ```
 
 #### Adding release notes
+https://raw.githubusercontent.com/javiersantos/AppUpdater/master/app/update-changelog.xml
+
 ```xml
 <AppUpdater>
   <update>
