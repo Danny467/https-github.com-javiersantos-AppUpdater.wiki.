@@ -6,7 +6,7 @@ new AppUpdater(this)
        .start();
 ```
 
-### Example JSON
+#### Example JSON
 https://raw.githubusercontent.com/javiersantos/AppUpdater/master/app/update-changelog.json
 
 ```json
