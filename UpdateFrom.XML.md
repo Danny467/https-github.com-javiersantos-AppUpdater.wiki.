@@ -6,7 +6,7 @@ new AppUpdater(this)
        .start();
 ```
 
-### Example XML
+#### Example XML
 https://raw.githubusercontent.com/javiersantos/AppUpdater/master/app/update.xml
 
 ```xml
