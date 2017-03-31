@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/javiersantos/AppUpdater/master/app/update-chan
 ```json
 {
   "latestVersion": "1.2.2",
+  "latestVersionCode": 10,
   "url": "https://github.com/javiersantos/AppUpdater/releases",
   "releaseNotes": [
     "- First evolution",
