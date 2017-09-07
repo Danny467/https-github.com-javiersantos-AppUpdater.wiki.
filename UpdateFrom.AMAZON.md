@@ -8,3 +8,4 @@ new AppUpdater(this)
 ### Notes
 * Your app must be published on Amazon App Store with one production release at least.
 * The latest update retrieved by the library will be the latest production one.
+* `Update#getLatestVersionCode()` will be null when using `AppUpdaterUtils`. You should use `Update#getLatestVersion()` instead.
