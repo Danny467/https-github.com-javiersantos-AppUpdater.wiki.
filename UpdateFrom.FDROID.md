@@ -6,4 +6,4 @@ new AppUpdater(this)
 ```
 
 ### Notes
-No additional notes.
+* `Update#getLatestVersionCode()` will be null when using `AppUpdaterUtils`. You should use `Update#getLatestVersion()` instead.
