@@ -6,4 +6,5 @@ new AppUpdater(this)
 ```
 
 ### Notes
+* Google Play doesn't support `versionCode`. You should use `UpdateFrom.JSON` or `UpdateFrom.XML` instead.
 * `Update#getLatestVersionCode()` will be null when using `AppUpdaterUtils`. You should use `Update#getLatestVersion()` instead.
